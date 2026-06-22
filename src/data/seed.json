@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    { "id": 1, "nome": "Ana Silva", "celular": "(11) 99254-1545", "email": "ana_silva@gmail.com" },
+    { "id": 2, "nome": "Carlos Souza", "celular": "(12) 99188-2242", "email": "carlos_souza@hotmail.com" },
+    { "id": 3, "nome": "Letícia Lima", "celular": "(12) 99756-5865", "email": "leticia_lima@outlook.com" }
+  ],
+  "agendamentos": [
+    { "id": 1, "clienteId": 1, "data": "2026-06-05", "hora": "09:00", "servicos": ["Corte Feminino", "Hidratação"], "observacao": "Cortar somente as pontas" },
+    { "id": 2, "clienteId": 2, "data": "2026-06-04", "hora": "15:00", "servicos": ["Barba","Limpeza de Pele"], "observacao": "Tem bastante espinha e foliculite" },
+    { "id": 3, "clienteId": 3, "data": "2026-06-06", "hora": "09:00", "servicos": ["Manicure","Pedicure"], "observacao": "Preferência por esmalte nude" }
+  ]
+}

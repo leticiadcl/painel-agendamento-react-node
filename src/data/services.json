@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "nome": "Corte Feminino",
+    "categoria": "Cabelo",
+    "duracao": "60 min",
+    "preco": 70,
+    "descricao": "Corte personalizado com finalização e modelagem.",
+    "icone": "bi-scissors"
+  },
+  {
+    "id": 2,
+    "nome": "Corte Masculino",
+    "categoria": "Cabelo",
+    "duracao": "40 min",
+    "preco": 55,
+    "descricao": "Corte masculino com acabamento profissional.",
+    "icone": "bi-scissors"
+  },
+  {
+    "id": 3,
+    "nome": "Barba",
+    "categoria": "Barbearia",
+    "duracao": "30 min",
+    "preco": 35,
+    "descricao": "Modelagem e acabamento da barba.",
+    "icone": "bi-person-bounding-box"
+  },
+  {
+    "id": 4,
+    "nome": "Coloração",
+    "categoria": "Cabelo",
+    "duracao": "120 min",
+    "preco": 180,
+    "descricao": "Coloração profissional com avaliação prévia.",
+    "icone": "bi-palette"
+  },
+  {
+    "id": 5,
+    "nome": "Relaxamento",
+    "categoria": "Cabelo",
+    "duracao": "90 min",
+    "preco": 120,
+    "descricao": "Redução de volume e alinhamento dos fios.",
+    "icone": "bi-stars"
+  },
+  {
+    "id": 6,
+    "nome": "Progressiva",
+    "categoria": "Cabelo",
+    "duracao": "180 min",
+    "preco": 250,
+    "descricao": "Alisamento progressivo para controle do frizz.",
+    "icone": "bi-magic"
+  },
+  {
+    "id": 7,
+    "nome": "Hidratação",
+    "categoria": "Tratamento",
+    "duracao": "45 min",
+    "preco": 90,
+    "descricao": "Tratamento nutritivo para brilho e maciez dos fios.",
+    "icone": "bi-droplet-half"
+  },
+  {
+    "id": 8,
+    "nome": "Escova",
+    "categoria": "Cabelo",
+    "duracao": "40 min",
+    "preco": 45,
+    "descricao": "Escovação profissional para modelagem dos cabelos.",
+    "icone": "bi-wind"
+  },
+  {
+    "id": 9,
+    "nome": "Penteado",
+    "categoria": "Cabelo",
+    "duracao": "90 min",
+    "preco": 120,
+    "descricao": "Penteados para festas, eventos e ocasiões especiais.",
+    "icone": "bi-gem"
+  },
+  {
+    "id": 10,
+    "nome": "Maquiagem",
+    "categoria": "Estética",
+    "duracao": "60 min",
+    "preco": 150,
+    "descricao": "Maquiagem profissional para eventos e ensaios.",
+    "icone": "bi-brush"
+  },
+  {
+    "id": 11,
+    "nome": "Manicure",
+    "categoria": "Unhas",
+    "duracao": "45 min",
+    "preco": 35,
+    "descricao": "Cutilagem, esmaltação e hidratação das mãos.",
+    "icone": "bi-hand-index-thumb"
+  },
+  {
+    "id": 12,
+    "nome": "Pedicure",
+    "categoria": "Unhas",
+    "duracao": "60 min",
+    "preco": 45,
+    "descricao": "Cuidados completos para os pés e unhas.",
+    "icone": "bi-footprints"
+  },
+  {
+    "id": 13,
+    "nome": "Sobrancelhas",
+    "categoria": "Estética",
+    "duracao": "30 min",
+    "preco": 40,
+    "descricao": "Design e alinhamento das sobrancelhas.",
+    "icone": "bi-eye"
+  },
+  {
+    "id": 14,
+    "nome": "Alongamento de Cílios",
+    "categoria": "Estética",
+    "duracao": "120 min",
+    "preco": 180,
+    "descricao": "Alongamento fio a fio para realçar o olhar.",
+    "icone": "bi-eyeglasses"
+  },
+  {
+    "id": 15,
+    "nome": "Limpeza de Pele",
+    "categoria": "Estética",
+    "duracao": "90 min",
+    "preco": 130,
+    "descricao": "Limpeza profunda para renovação da pele.",
+    "icone": "bi-heart-pulse"
+  },
+  {
+    "id": 16,
+    "nome": "Depilação",
+    "categoria": "Estética",
+    "duracao": "45 min",
+    "preco": 60,
+    "descricao": "Remoção de pelos com acabamento suave.",
+    "icone": "bi-stars"
+  },
+  {
+    "id": 17,
+    "nome": "Massagem",
+    "categoria": "Bem-estar",
+    "duracao": "60 min",
+    "preco": 120,
+    "descricao": "Massagem relaxante para alívio de tensões.",
+    "icone": "bi-heart"
+  }
+]
